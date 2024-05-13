@@ -14,4 +14,4 @@ according to the [GitHub licencing guidelines](https://help.github.com/en/articl
 [MIT Licence](https://spdx.org/licenses/MIT.html) : https://spdx.org/licenses/MIT.html
 
 ## Example with custom licence
-[Custom Licence](./materials/Copyright) : ./materials/Copyright
+Use only for archiving, academic and educational purpose

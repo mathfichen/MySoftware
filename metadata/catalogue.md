@@ -25,13 +25,13 @@ Example of Item links:
 # SW_NAME Catalogue
 
 
-* **[Item Name](./raw_materials/example_file.zip)**
-  * *Origin:* 
-  * *Warehouse:* 
-  * *Authors:* [Name Surname](./actors.md#name-surname)
-  * *Date:* 1970/01/25 (circa) 
-  * *Collectors:* [Name Surname](./actors.md#name-surname)
-  * *Description:* 
+* **[Listing 1971](./raw_materials/listing1971.pdf)**
+  * *Origin:* Author personal archives
+  * *Warehouse:* Author personal archives
+  * *Authors:* [TheAuthor](./actors.md#name-surname)
+  * *Date:* 1971/05/01 (circa) 
+  * *Collectors:* [Mathilde Fichen](./actors.md#name-surname)
+  * *Description:* Paper listing at the author's personal house
   * *Notes:* 
   
 * **[Additional Material Item Name](./additional_materials/example.ppt)**
