@@ -1,5 +1,8 @@
 # MySoftware
 
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/mathfichen/MySoftware/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/mathfichen/MySoftware)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:984f1a200d3125aa73133e33edfd0355eebc8d2c/)](https://archive.softwareheritage.org/swh:1:dir:984f1a200d3125aa73133e33edfd0355eebc8d2c;origin=https://github.com/mathfichen/MySoftware;visit=swh:1:snp:499137ae121c8d40fae20d9a63058940ef7a7c18;anchor=swh:1:rev:c299561517205205ffca5cca9f785893c3e8699d)
+
 This repository contains the archived source code of MySoftware, a legacy Software developped as of 1970 at UniversityName. 
 MySoftware source code can be discovered via two different angles, materialized as two different branches. 
 
