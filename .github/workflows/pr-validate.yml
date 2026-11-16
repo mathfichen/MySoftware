@@ -1,4 +1,4 @@
-name: Validate PR (inspect + dry-run build + compliance gate)
+name: Validate (Manual)
 
 # ┌─ DRAFT — reference shape, not yet the production workflow ──────────────────┐
 # │ This runs an untrusted extract+build, so it MUST stay secrets-free (C1):    │
